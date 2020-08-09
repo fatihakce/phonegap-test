@@ -1,0 +1,4 @@
+body { margin: 0; padding: 0; background: #005078;}
+
+.app-main { width:100%; height:100%; position: fixed; display: flex; align-items: center; justify-content: center; }
+.app-main .app-case { width:90%; max-width:700px; height:300px; background: #cccccc; }
